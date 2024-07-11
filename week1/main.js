@@ -55,9 +55,54 @@
 //     }
 // }
 
-const user1={
-    firstName: "pritha",
-    gender: "female",
-}
+// const user1={
+//     firstName: "pritha",
+//     gender: "female",
+// }
 
-console.log(user1["gender"])
+// console.log(user1["gender"])
+
+
+// const allUsers=[{
+//     fistName:"prith",
+//     gender:"female",
+// },{
+//     fistName: "rahul",
+//     gender: "male",
+// }
+// ]
+
+// for(let i=0;i<allUsers.length;i++){
+//     if(allUsers[i]["gender"]=="male"){
+//         console.log(allUsers[i]["fistName"])
+//     }
+// }
+
+// function sum(a,b){
+//     const ans=a+b;
+//     return ans;
+// }
+
+// const value=sum(1,2)
+// const value2=sum(3, 77)
+// console.log(value);
+
+// function sum(num1,num2,fnToCall){
+//     let result=num1+num2;
+//     fnToCall(result);
+// // displayResult(result); 
+// }
+
+// function displayResult(data){
+//     console.log("Result: " + data);
+// }
+
+// function displayResultPassive(data){
+//     console.log("sum: " + data);
+// }
+
+// const ans=sum(1,2,displayResult);
+// displayResult(ans);
+//callback
+
+
