@@ -42,3 +42,22 @@
 //         console.log(ages[i]);
 //     }
 // }
+
+
+// const personArray= ["priya","prith","Rahul"];
+// const genderArray=["female","female","male"];
+
+
+
+// for(let i=0;i<personArray.length;i++){
+//     if(genderArray[i]=="male"){
+//         console.log(personArray[i]);
+//     }
+// }
+
+const user1={
+    firstName: "pritha",
+    gender: "female",
+}
+
+console.log(user1["gender"])
